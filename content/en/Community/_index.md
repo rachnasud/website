@@ -46,9 +46,9 @@ The project contributors use a combination of [GitHub discussions](https://githu
 
 ## Join Kyverno Adopters
 
-Kyverno is a CNCF sandbox project is growing fast. To qualify for the [incubation level](https://github.com/cncf/toc/blob/main/process/graduation_criteria.md) the CNCF requires production usage by multiple end users.
+Kyverno was accepted to CNCF on November 10, 2020 and is at the incubating project maturity level.
 
-The goal of this adopters program is to gather real-world usage examples and help Kyverno achieve the incubating state criteria. We hope to achieve this by learning from the existing and new adopters of Kyverno who are willing to share their stories with CNCF. The adopters can remain private or choose to be listed in the public [Adopters List](https://github.com/kyverno/kyverno/blob/main/ADOPTERS.md).
+The goal of this adopters program is to gather real-world usage examples and help Kyverno achieve the graduation level criteria. We hope to achieve this by learning from the existing and new adopters of Kyverno who are willing to share their stories with CNCF. The adopters can remain private or choose to be listed in the public [Adopters List](https://github.com/kyverno/kyverno/blob/main/ADOPTERS.md).
 
 To participate, fill out the [ Kyverno adopters form](https://docs.google.com/forms/d/e/1FAIpQLSeMJxbK6eQ-MpsbaXZ3GKp8NEz9F932keL2pwznI1JIfi7Iqw/viewform).
 
